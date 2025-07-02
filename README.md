@@ -38,19 +38,19 @@
 
 ```mermaid
 flowchart LR
-  subgraph 🖥️ Languages
+  subgraph  Languages
     JS[JavaScript]
     Py[Python]
     HTML[HTML5]
     CSS[CSS3]
   end
-  subgraph 🏗️ Frameworks & Tools
+  subgraph  Frameworks & Tools
     PP[Power Platform]
     SP[SharePoint]
     BB[Budibase]
     VS[VS Code]
   end
-  subgraph 🔒 Cybersecurity
+  subgraph Cybersecurity
     SC[Scapy]
     NMAP[Nmap]
     METASPLOIT[Metasploit]
