@@ -37,8 +37,7 @@ I’m a recent **Computer Science graduate from George Mason University** with a
 
 ## 🚀 Projects & Highlights
 
-### 🎮 [3/5 Milsim Gaming Website]
-*Coming Soon – Stay Tuned!*  
+### 🎮 [3/5 Milsim Gaming Website](https://websheb.netlify.app/)
 Built a professional website for a MILSIM group using **HTML, CSS, and JavaScript**.
 
 ### 📊 Task Tracker with Power Platform
