@@ -39,7 +39,7 @@ I’m a recent **Computer Science graduate from George Mason University** with a
 
 ## 🚀 Projects & Highlights
 
-### 🎮 [3/5 Milsim Gaming Website](#)
+### 🎮 [3/5 Milsim Gaming Website]
 *Coming Soon – Stay Tuned!*  
 Built a professional website for a MILSIM group using **HTML, CSS, and JavaScript**.
 
@@ -67,20 +67,3 @@ An internal project that tracks user tasks using **Power Apps**, **Power Automat
 - 🌐 [Portfolio Website](#) *(Coming Soon!)*
 
 ---
-
-## ⚡ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FuzzFuzzFuzz&show_icons=true&theme=tokyonight" alt="Brandon's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FuzzFuzzFuzz&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuzzFuzzFuzz&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
