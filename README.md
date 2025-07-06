@@ -1,15 +1,13 @@
 # 👋 Hey there, I'm Brandon!
 
 🎯 **Aspiring Cybersecurity & Software Developer** | 🌐 **Web Enthusiast** | 🧪 **Volunteer Software Tester at Discord**  
-📍 Alexandria, VA | 🛡️ U.S. Citizen 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Work-%2300b894?style=for-the-badge&logo=freelancer&logoColor=white" alt="Open to Work" />
-  <img src="https://img.shields.io/badge/Security%20Clearance-Eligible%20TS%2FSCI%20%2B%20Poly-%23e84393?style=for-the-badge&logo=trustpilot&logoColor=white" alt="Clearance Badge" />
+  <img src="https://img.shields.io/badge/Security%20Clearance-Eligible%20up%20to%20TS%2FSCI%20%2B%20Poly-%23e84393?style=for-the-badge&logo=trustpilot&logoColor=white" alt="Clearance Badge" />
   <img src="https://img.shields.io/badge/Based%20in-Alexandria,%20VA-%232c3e50?style=for-the-badge&logo=homeadvisor&logoColor=white" alt="Location Badge" />
   <img src="https://img.shields.io/badge/Currently%20Learning-Power%20Platform-%237d5fff?style=for-the-badge&logo=microsoft&logoColor=white" alt="Learning Badge" />
 </p>
-
 
 ---
 
