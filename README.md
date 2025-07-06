@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Brandon!
+# <img src="https://github.com/FuzzFuzzFuzz/FuzzFuzzFuzz/blob/main/bongo.gif" width="30"> Hey there, I'm Brandon! <img src="https://github.com/FuzzFuzzFuzz/FuzzFuzzFuzz/blob/main/bongo.gif" width="30">
 
 🎯 **Aspiring Cybersecurity & Software Developer** | 🌐 **Web Enthusiast** | 🧪 **Volunteer Software Tester at Discord**  
 
