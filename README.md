@@ -18,7 +18,7 @@ I’m a recent **Computer Science graduate from George Mason University** with a
 - 🛠️ Built a **task tracker app** using Microsoft Power Platform & SharePoint.
 - 🖥️ Developed a full **HTML/CSS/JS** website for a gaming organization.
 - 🐞 Volunteer QA Tester at Discord, helping identify and document critical bugs and usability issues.
-- 🎖️ Led recruitment operations for a 100+ member MILSIM unit, analyzing data to optimize recruitment workflows.
+- 🎖️ Led recruitment operations for a 800+ member MILSIM unit, analyzing data to optimize recruitment workflows.
 
 ---
 
