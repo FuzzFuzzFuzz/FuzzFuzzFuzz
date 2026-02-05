@@ -7,7 +7,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=900&center=true&vCenter=true&width=820&lines=Ah,+A+Traveler!+Welcome!;A+New+Hand+Touches+The+Beacon.;Take+Look+At+Below+And+Tell+Me+What+You+Think!;I+Read+Docs+(Eventually).;Trying+To+Make+A+Difference.;Always+Curious.+Always+Improving."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=900&center=true&vCenter=true&width=820&lines=Ah,+A+Traveler!+Welcome!;A+New+Hand+Touches+The+Beacon.;Take+Look+At+Below+And+Tell+Me+What+You+Think!;I+Read+Docs+(Eventually).;Trying+To+Make+A+Difference."
     alt="Typing SVG"
   />
 </p>
